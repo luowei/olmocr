@@ -1,3 +1,6 @@
+
+# 来源：https://www.aivi.fyi/llms/deploy-olmOCR
+
 import os
 import json
 import gradio as gr
